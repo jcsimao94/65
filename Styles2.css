@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin: 50px, auto, 0,auto;
+    font-size: 562%;
+    font-family: 'Sacramento', cursive;
+    color:lightgray
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color:lightgray;
+    font-weight: normal;
+    line-height: 2;
+}
+    
+
+.General-medicine {
+        text-decoration: underline;
+}
+.top-container {
+    background-color:orangered;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    top: 100px;
+    right: 250px;
+
+
+}
+.Bottom-cloud {
+    position: absolute;
+    left: 200px;
+}
+
+.mountain {
+    position: relative;
+    top: 4px;
+}
+
+.skill-row {
+width: 50%;
+padding: 10px;
+Margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.programmer {
+    width: 180px;
+    float: right;
+    margin-right: 96px;
+    position: relative;
+    bottom: 145px;
+}
+.Surgery {
+    width: 200px;
+    float: left;
+    margin-right: 30px; 
+    position: relative;
+    bottom: 125px;
+}
+.full {
+    position: relative;
+    left: 35px;
+    position: relative;
+    bottom: 125px;
+}
+.Junior {
+    position: relative;
+    left: 35px;
+    bottom: 125px;
+}
+.Juan {
+    width: 200px;
+    margin-top: 0px;
+}
+.General {
+    color: #40514E;
+margin: auto;
+    width: 30%;
+}
+hr {
+    border-color: #EAF6F6;
+    border-style: dotted none none;
+    text-align: center;
+    border-width: 5px;
+    width: 3%;
+    margin: 100px auto;
+}
+.middle-container {
+    padding: 50px;
+}
+
+.Hello {
+    font-size: 2.5rem;
+}
+p {
+    line-height: 2;
+}
+
+.my {
+    font-size: 2.5rem;
+}
+
+.general-surgeon {
+   position: relative;
+   bottom: 100px;
+}
+
+.G2 {
+   position:relative;
+   bottom: 100px; 
+}
+.get {
+    margin-top: 40px;
+    font-size: 2.5rem;
+    
+}
+.looking {
+    color:lightgray;
+}
+.bottom-container {
+    background-color: orangered;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 10rem;
+
+
+}
+.btn {
+    background: orangered;
+    background-image: -webkit-linear-gradient(top, orangered, orangered);
+    background-image: -moz-linear-gradient(top, orangered, orangered);
+    background-image: -ms-linear-gradient(top, orangered, orangered);
+    background-image: -o-linear-gradient(top, orangered, orangered);
+    background-image: linear-gradient(to bottom, orangered, orangered);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: black;
+    font-size: 20px;
+    padding: 10px 25px 10px 25px;
+    text-decoration: none;
+    position: relative;
+    top: 17px;
+    
+}
+a {
+    color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    position: relative;
+    top: 40px;
+    font-size: 20px;
+    margin: 10px 20px;
+align-self: start;
+}
+a:hover {
+color: #EAF6F6;
+}
+.Dr {
+    position: relative;
+    top: 60px;
+    font-size: 15px;
+}
+.follow {
+    width: 40%;
+    margin: 40px auto 60px;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: orangered;
+}
+hr {
+    border-color: antiquewhite;
+    text-align: center;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 3%;
+}
+h3 {
+    color: antiquewhite;
+}
+h2 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 5px
+}
